@@ -10,7 +10,7 @@
 ### **What I Do 💻**  
 🔹 **Data Scientist** passionate about solving real-world problems using Artificial Intelligence.  
 🔹 **Software Engineer** skilled in full-stack development and automation pipelines.  
-🔹 **AI Developer** focused on machine learning, deep learning, generative ai and data analysis.  
+🔹 **AI Developer** focused on machine learning, deep learning, generative AI and data analysis.  
 
 ---
 
