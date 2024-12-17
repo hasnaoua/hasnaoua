@@ -25,12 +25,6 @@
 **Tech**: TensorFlow, Keras, Flask, GCP.  
 
 ---
-### **Languages 🌐**  
-- French 🇫🇷  
-- Arabic 🇲🇦  
-- English 🇬🇧  
-
----
 
 ### **Connect With Me 🌟**  
 📧 [Email me](mailto:abdelhayhasnaoui@gmail.com)  
