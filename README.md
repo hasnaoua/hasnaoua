@@ -29,4 +29,15 @@
 🔗 [LinkedIn](https://linkedin.com/in/abdelhay-hasnaoui-081309226)  
 🐙 [GitHub](https://github.com/hasnaoua)  
 
-![Profile Views](https://komarev.com/ghpvc/?username=hasnaoua&color=brightgreen)
+### **My GitHub Statistics 📊**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasnaoua&show_icons=true&count_private=true&theme=radical)
+
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaoua&layout=compact&theme=radical)
+
+---
+
+### **Contribution Graph 🚀**
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hasnaoua&theme=github)
+
