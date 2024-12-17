@@ -17,12 +17,10 @@
 ### **Projects 🚀**  
 
 🔹 **Audio Source Separation**  
-- Developed a method to estimate audio noise and voice components.  
-**Tech**: PyTorch, Signal Processing.  
+- Developed a method to estimate audio noise and voice components.    
 
 🔹 **RGB Image Classification**  
-- Built and deployed a logistic regression model with a web interface.  
-**Tech**: TensorFlow, Keras, Flask, GCP.  
+- Built and deployed a logistic regression model with a web interface.    
 
 ---
 
