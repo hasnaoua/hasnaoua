@@ -88,3 +88,9 @@ Skilled in **machine learning**, **deep learning**, **software engineering**, an
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaoua&theme=dark&hide_border=false&layout=compact)
 
 ### ✔️ **Commit Language Breakdown**
+https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaoua&layout=compact&langs_count=10
+
+
+[![](https://visitcount.itsvg.in/api?id=hasnaoua&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![Profile Views](https://komarev.com/ghpvc/?username=hasnaoua&color=brightgreen)
