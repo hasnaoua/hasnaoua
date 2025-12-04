@@ -7,15 +7,6 @@
 
 ---
 
-# 🎨 **Theme Selector**
-Choose your viewing style:
-
-| Light Theme | Dark Theme |
-|------------|------------|
-| ![Light](https://github-readme-stats.vercel.app/api?username=hasnaoua&theme=default&show_icons=true) | ![Dark](https://github-readme-stats.vercel.app/api?username=hasnaoua&theme=dark&show_icons=true) |
-
----
-
 ## 👨‍💻 **About Me**
 
 I am a **Data Scientist** and **AI Engineer** passionate about designing intelligent systems and scalable machine-learning solutions.  
@@ -87,11 +78,6 @@ I enjoy transforming complex data into meaningful, impactful solutions.
 ![](https://github-readme-stats.vercel.app/api?username=hasnaoua&theme=default&hide_border=true&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hasnaoua&theme=default&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaoua&theme=default&hide_border=true&layout=compact)
-
-### 🌙 Dark Theme
-![](https://github-readme-stats.vercel.app/api?username=hasnaoua&theme=dark&hide_border=true&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=hasnaoua&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaoua&theme=dark&hide_border=true&layout=compact)
 
 ---
 
