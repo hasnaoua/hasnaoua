@@ -57,13 +57,6 @@ Skilled in **machine learning**, **deep learning**, **software engineering**, an
 
 ---
 
-## 🧭 **Connect With Me**
-📧 Email: [abdelhayhasnaoui@gmail.com](mailto:abdelhayhasnaoui@gmail.com)  
-🔗 LinkedIn: https://linkedin.com/in/abdelhay-hasnaoui-081309226  
-🐙 GitHub: https://github.com/hasnaoua
-
----
-
 # 📊 **GitHub Statistics**
 
 ![](https://github-readme-stats.vercel.app/api?username=hasnaoua&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
