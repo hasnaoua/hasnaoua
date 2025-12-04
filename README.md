@@ -14,21 +14,6 @@ Skilled in **machine learning**, **deep learning**, **software engineering**, an
 
 ---
 
-## 🚀 **Featured Projects**
-
-### 🔹 **Audio Source Separation**
-- Built a model to separate **voice** from **background noise** using signal processing + ML.
-
-### 🔹 **RGB Image Classification**
-- Developed a full **logistic regression image classifier**.
-- Deployed using a clean **web interface**.
-
-### 🔹 **Sentiment Analysis**
-- Implemented a sentiment classifier **from scratch**.
-- Compared performance with **state-of-the-art models**.
-
----
-
 # 💻 **Tech Stack**
 
 ### **Languages**
