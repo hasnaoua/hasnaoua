@@ -68,8 +68,6 @@ I enjoy transforming complex data into meaningful, impactful solutions.
 ![Docker](https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-0072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
 ---
 
 # 📊 **GitHub Statistics**
