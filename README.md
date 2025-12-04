@@ -1,5 +1,5 @@
 # 🚀 **Abdelhay Hasnaoui**
-### **Data Scientist** | **AI Developer** | **Software Engineer**
+### **Data Scientist** • **AI Developer** • **Software Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelhay-hasnaoui-081309226)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/hasnaoua)
@@ -7,67 +7,98 @@
 
 ---
 
+# 🎨 **Theme Selector**
+Choose your viewing style:
+
+| Light Theme | Dark Theme |
+|------------|------------|
+| ![Light](https://github-readme-stats.vercel.app/api?username=hasnaoua&theme=default&show_icons=true) | ![Dark](https://github-readme-stats.vercel.app/api?username=hasnaoua&theme=dark&show_icons=true) |
+
+---
+
 ## 👨‍💻 **About Me**
 
-I am a **Data Scientist** and **AI Developer** passionate about building intelligent systems that solve real-world problems.  
-Skilled in **machine learning**, **deep learning**, **software engineering**, and **high-performance AI pipelines**.
+I am a **Data Scientist** and **AI Engineer** passionate about designing intelligent systems and scalable machine-learning solutions.  
+My work focuses on:
+
+- Building **end-to-end ML pipelines**  
+- Developing **production-ready AI applications**  
+- Writing **efficient, clean, and modular software**  
+- Leveraging **ML, deep learning, and statistics** to solve real-world problems  
+
+I enjoy transforming complex data into meaningful, impactful solutions.
 
 ---
 
 # 💻 **Tech Stack**
 
-### **Languages**
+## **Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### **Web & Backend**
+---
+
+## **Web & Backend**
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### **Machine Learning & AI**
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+---
 
-### **Databases**
+## **Machine Learning & AI**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![MLflow](https://img.shields.io/badge/mlflow-white?style=for-the-badge&logo=mlflow&logoColor=blue)
+
+---
+
+## **Databases**
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### **Tools**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+---
+
+## **Tools**
+![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-0072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
 # 📊 **GitHub Statistics**
 
-![](https://github-readme-stats.vercel.app/api?username=hasnaoua&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+### 🌞 Light Theme
+![](https://github-readme-stats.vercel.app/api?username=hasnaoua&theme=default&hide_border=true&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=hasnaoua&theme=default&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaoua&theme=default&hide_border=true&layout=compact)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=hasnaoua&theme=dark&hide_border=false)
+### 🌙 Dark Theme
+![](https://github-readme-stats.vercel.app/api?username=hasnaoua&theme=dark&hide_border=true&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=hasnaoua&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaoua&theme=dark&hide_border=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaoua&theme=dark&hide_border=false&layout=compact)
+---
 
-### ✔️ **Commit Language Breakdown**
+# 📈 **Commit Language Breakdown**
 https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaoua&layout=compact&langs_count=10
 
+---
 
 [![](https://visitcount.itsvg.in/api?id=hasnaoua&icon=0&color=0)](https://visitcount.itsvg.in)
 
